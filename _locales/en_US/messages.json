@@ -1,0 +1,8 @@
+{
+  "extensionName": {
+    "message": "WebCompat Site Diagnosis Helper"
+  },
+  "extensionDescription": {
+    "message": "Handy overrides and API-wrappers for diagnosing how sites use JS"
+  }
+}
